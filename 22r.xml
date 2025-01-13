@@ -19,7 +19,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Draft of Frankenstein, [August or September] – [?December] 1816. | Bodleian MS. 
+        <p>Draft of Frankenstein, [August or September] — [?December] 1816. | Bodleian MS. 
           Abinger c.56 (formerly designated Dep. 477/1) consists of 62 leaves originally 
           bound in Notebook A, one of two now disbound notebooks in which Mary W. Shelley 
           (MWS) drafted the two-volume version of Frankenstein. The draft in c.56 runs 
@@ -32,7 +32,9 @@
     <body>
       <div type="page" n="22v" rend="recto">
         <pb facs="#p22r"/>
+        <head>
         <metamark function="pagenumber"><num><hi rend="circled">77</hi></num></metamark>
+        </head>
       <p>
          to change and I thought that I held <lb/>
          the corpse of my dead mother in my arms <del type="overwritten" hand="#MWS" rend="blackink">,</del> <add place="infralinear" hand="#PBS" rend="blackink">:</add> <lb/>
@@ -41,7 +43,7 @@
         the flannel; I started <add place="infralinear" hand="#PBS" rend="blackink"><metamark>^</metamark></add> <add place="supralinear" hand="#PBS" rend="blackink">from my sleep</add> with horror, a <lb/>
         <del type="crossedOut" hand="#MWS" rend="blackink">when I saw</del> cold dew covered my forehead <lb/>
         my teeth <del type="crossedOut" hand="#MWS" rend="blackink">ah</del> chattered and every limb <lb/>
-        <del type="crossedOut" hand="#MWS" rend="blackink">was</del> <add place="supralinear" hand="#PBS" rend="blackink">became</add> convul <del type="overwritten" hand="#MWS" rend="blackink"> <unclear> x </unclear </del> <add place="inline" hand="#MWS" rend="blackink">s</add> ed, when, by the dim and <lb/>
+        <del type="crossedOut" hand="#MWS" rend="blackink">was</del> <add place="supralinear" hand="#PBS" rend="blackink">became</add> convul <del type="overwritten" hand="#MWS" rend="blackink"> <unclear> x </unclear> </del> <add place="inline" hand="#MWS" rend="blackink">s</add> ed, when, by the dim and <lb/>
         yellow light of the moon as it forced<lb/>
         its way through the window shutters, I<lb/>
         beheld the wretch — the miserable<lb/>

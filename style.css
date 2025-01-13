@@ -1,5 +1,14 @@
 body {
-
+    font-family: 'Cinwel', serif;
+    line-height: 1.7;
+    color: #756868;
+    background-color: #2b2626;
+    background-size: cover;
+    margin: 0;
+    padding: 20px;
+    box-shadow: inset 0 0 50px #000;
+    overflow-x: hidden;
+    
 }
 .starter-template {
   padding: 40px 15px;
@@ -32,4 +41,87 @@ p {
     display: none !important;
 }
 
+.circled-number {
+    border: 2px solid black;
+    border-radius: 50%;
+    padding: 2px;
+    display: inline-block;
+}
 
+.overwritten_addition {
+    background-color: rgb(163, 163, 29);
+    font-style: italic;
+}
+
+.supraAdd {
+    font-size: 0.8em;
+    vertical-align: super;
+}
+
+a {
+    color: #e0cfcf;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #d36245;
+    text-decoration: underline;
+  }
+
+
+.navbar {
+    background-color: #2b2626 !important;
+    border: 1px solid #e0cfcf;
+  }
+  .navbar a.nav-link, .navbar-brand {
+    color: #756868 !important;
+    font-family: 'Cinzel', serif;
+  }
+  .navbar a.nav-link:hover {
+    color: #d36245 !important;
+  }
+  .dropdown-menu {
+    background-color: #2b2626;
+    border: 1px solid #312e2e;
+  }
+  .dropdown-item {
+    color: #e0cfcf;
+  }
+  .dropdown-item:hover {
+    background-color: #1E1E1E;
+    color: #d36245;
+  }
+  
+.btn {
+    font-family: 'Cinzel', serif;
+    font-size: 1.1rem;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 2px solid #e0cfcf;
+    transition: all 0.3s ease;
+  }
+  
+  .btn-secondary {
+    background-color: #2b2626;
+    color: #e0cfcf;
+  }
+  .btn-secondary:hover {
+    background-color: #2b2626;
+    color: #d36245;
+    border-color: #746c6c;
+  }
+  .btn-primary {
+    background-color: #8B0000;
+    color: #e0cfcf;
+    border-color: #8B0000;
+  }
+  
+  .btn-primary:hover {
+    background-color: #2b2626;
+    color: #d36245;
+    border-color: #746c6c;
+  }
+    
+
+
+  
